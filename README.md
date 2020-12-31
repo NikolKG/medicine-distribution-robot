@@ -1,6 +1,3 @@
-# Final-Project - medicine distribution robot
-
-
 <h1 align="center">medicine distribution robot</h1>
 
 This project is part of a final academic project at [SCE - Shamoon College of Engineering](https://sce.ac.il)This project contain a web app for searching places around zip code using Zippoptam API.
