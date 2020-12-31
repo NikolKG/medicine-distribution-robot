@@ -1,0 +1,34 @@
+ {
+    "1":
+    {
+    "drug_name": "Darifenacin",
+    "id": "123456",
+    "capsul_location_A": "1",
+    "capsul_location_Z": "1",
+    "invetory": 50
+    },
+    "2":
+    {
+    "drug_name": "Erythromycin",
+    "id": "123456",
+    "capsul_location_A": "5",
+    "capsul_location_Z": "2",
+    "invetory": 50
+    },
+    "3":
+    {
+    "drug_name": "Lovastatin",
+    "id": "123456",
+    "capsul_location_A": "2",
+    "capsul_location_Z": "1",
+    "invetory": 50
+    },
+    "4":
+    {
+    "drug_name": "Buspiron",
+    "id": "123456",
+    "capsul_location_A": "3",
+    "capsul_location_Z": "3",
+    "invetory": 50
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "1": {
+    "first_name": "david",
+    "last_name": "Cohen",
+    "id": "20945186",
+    "drugs_list": {
+      "1": {
+        "drug_name": "Darifenacin",
+        "amount": 2
+      },
+      "2": {
+        "drug_name": "Erythromycin",
+        "amount": 1
+      }
+    }
+  },
+  "2": {
+    "first_name": "Shira",
+    "last_name": "Levi",
+    "id": "26869574",
+    "drugs_list": {
+      "1": {
+        "drug_name": "Lovastatin",
+        "amount": 1
+      },
+      "2": {
+        "drug_name": "Buspiron",
+        "amount": 1
+      }
+    }
+  }
+}
